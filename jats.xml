@@ -1,0 +1,80 @@
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher"></journal-id>
+         <issn journal-id-type="publisher"></issn>
+         <publisher>
+            <publisher-name></publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id"></article-id>
+         <article-id pub-id-type="other"/>
+         <article-categories>
+            <subj-group>
+               <subject/>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            
+            <article-title xml:lang="uk-UA"> </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname> </surname>
+                  <given-names> </given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1"> </xref>
+               <xref ref-type="fn" rid="conf1"/>
+               <xref ref-type="corresp" rid="cor1"/>
+            </contrib>
+            <aff id="aff1">
+               <institution content-type="dept"> </institution>
+               <addr-line>
+                  <named-content content-type="city"> </named-content>
+               </addr-line>
+               <country> </country>
+            </aff>
+         </contrib-group>
+         <author-notes>
+            <corresp id="cor1">
+               <email> </email>
+            </corresp>
+         </author-notes>
+         <pub-date date-type="pub" iso-8601-date="" publication-format="print">
+            <day> </day>
+            <month> </month>
+            <year> </year>
+         </pub-date>
+         <volume/>
+         <issue/>
+         <elocation-id/>
+         <permissions>
+            <copyright-statement>© 2017,</copyright-statement>
+            <copyright-year>2017</copyright-year>
+            <copyright-holder> </copyright-holder>
+            <license >
+               <license-p>This article is distributed under the terms of the 
+                  <ext-link >Creative Commons Attribution License</ext-link>
+                  , which permits unrestricted use and redistribution provided that the original author and source are credited.
+               </license-p>
+            </license>
+         </permissions>
+         <abstract abstract-type="section">
+            <sec>
+               <title>Abstract</title>
+               <p>
+                  <italic>Behaviour of a mortar with cement – sand dosage of 1:3 added with prismatic angular particles of recycled expanded polystyrene (REPS) obtained by manually grating expanded polystyrene blocks is described. Density, absorption, compression, indirect tension, and residual post-fire compression at temperatures of 50°C - 500°C when testing were performed on 320 cubes of side 5cm and on 56 cylinders with a 5cm diameter and 10cm high added with REPS percentages in volume of 10% - 80%. Results show that while the density, compression, indirect tension, and post-fire residual compression of the mortar goes down to 23%, 83%, 76% y 19%-54%, respectively, with increments in the volume percentage of REPS; the absorption of the mortar increases by 308%. A bilinear model that predicts the effect of increasing the percentage in volume of REPS on the physical and mechanical properties of the mortar is discussed.</italic> 
+               </p>
+            </sec>
+         </abstract>
+         <trans-abstract xml:lang="uk"/>
+         <kwd-group kwd-group-type="author-keywords">
+            <title>Keywords</title>
+            <kwd> </kwd>
+            <kwd> </kwd>
+            <kwd> </kwd>
+            <kwd> </kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
